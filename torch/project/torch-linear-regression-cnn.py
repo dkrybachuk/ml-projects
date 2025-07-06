@@ -7,7 +7,7 @@ import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Set-up matplotlib
+# Setup matplotlib
 matplotlib.use("TkAgg")
 print(matplotlib.get_backend())
 

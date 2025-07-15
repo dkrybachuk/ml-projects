@@ -1,0 +1,7 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+paddy-disease-classification.zip
+test_images/*
+train_images/*
+resnet_paddy_pretrained.pth
+sample_submission.csv
+train.csv
